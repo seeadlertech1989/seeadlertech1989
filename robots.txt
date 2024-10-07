@@ -1,0 +1,18 @@
+User-agent: *Allow: /privacy-policy.html
+Allow: /faq.html
+Allow: /contact.html
+Allow: /index.html
+Allow: /terms-and-conditions.html
+Allow: /products/B0BN87FHBZ.html
+Allow: /products/index.html
+Allow: /products/comparisons/index.html
+Allow: /products/comparisons/1727943164.html
+Allow: /products/comparisons/1728220688.html
+Allow: /products/B0C8NW342B.html
+Allow: /products/categories.html
+Allow: /products/reviews/B0BN87FHBZ.html
+Allow: /products/reviews/index.html
+Allow: /products/reviews/B0C8NW342B.html
+Allow: /about.html
+
+Sitemap: https://bestproducts.co.in/sitemaps.txt
